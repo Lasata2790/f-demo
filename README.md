@@ -1,4 +1,4 @@
 # f-demo
-this is my frst git repo
+this is repo
 <br>
 ~# edited by LM
